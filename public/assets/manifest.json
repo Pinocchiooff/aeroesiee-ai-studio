@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "Inventaire des ressources du Simulateur AéroESIEE. Tous les chemins sont relatifs à public/assets/. Les tableaux restent vides tant que les fichiers n'ont pas été ajoutés et vérifiés.",
+  "materials": {},
+  "models": {},
+  "credits": []
+}
